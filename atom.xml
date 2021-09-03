@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>三先生の博客</title>
+  
+  <subtitle>三先生の博客</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-09-03T09:02:12.062Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>三先生</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社会交流新得</title>
+    <link href="http://example.com/20210903exchange/"/>
+    <id>http://example.com/20210903exchange/</id>
+    <published>2021-09-02T01:26:52.000Z</published>
+    <updated>2021-09-03T09:02:12.062Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;初探心得&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;四个要素&quot;&gt;&lt;a href=&quot;#四个要素&quot; class=&quot;headerlink&quot; title=&quot;四个要素&quot;&gt;&lt;/a&gt;四个要素&lt;/h2&gt;&lt;p&gt;​   </summary>
+        
+      
+    
+    
+    
+    <category term="非暴力沟通美学集" scheme="http://example.com/categories/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E7%BE%8E%E5%AD%A6%E9%9B%86/"/>
+    
+    
+    <category term="沟通" scheme="http://example.com/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+    <category term="社会心理" scheme="http://example.com/tags/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86/"/>
+    
+    <category term="结论集" scheme="http://example.com/tags/%E7%BB%93%E8%AE%BA%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>沧海行</title>
+    <link href="http://example.com/20210903sansan/"/>
+    <id>http://example.com/20210903sansan/</id>
+    <published>2021-09-02T01:26:52.000Z</published>
+    <updated>2021-09-03T07:55:15.367Z</updated>
+    
+    
+    
+    
+    <category term="小说集" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4%E9%9B%86/"/>
+    
+    
+    <category term="玄幻" scheme="http://example.com/tags/%E7%8E%84%E5%B9%BB/"/>
+    
+    <category term="小说" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="艺术" scheme="http://example.com/tags/%E8%89%BA%E6%9C%AF/"/>
+    
+  </entry>
+  
+</feed>
